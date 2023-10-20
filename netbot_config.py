@@ -1,5 +1,5 @@
-ATTACK_TARGET_HOST = "192.168.0.105" # IP address of the machine to be attacked.
-ATTACK_TARGET_PORT = "3000" # Port Number of the machine to be attacked.
+ATTACK_TARGET_HOST = "144.76.57.59" # IP address of the machine to be attacked.
+ATTACK_TARGET_PORT = "10291" # Port Number of the machine to be attacked.
 
 #################################################################################
 
